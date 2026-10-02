@@ -1,15 +1,19 @@
 {
-  "name": "week3-crud-api-",
+  "name": "week3-crud-todo-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Week 3 CRUD Todo API",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "todo",
+    "crud",
+    "api",
+    "express"
+  ],
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
   },
